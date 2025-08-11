@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saif Arnab 👋
 
-<!--
-**saifarnab/saifarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Developer | 🐍 Python & Go Enthusiast | 📊 Fintech Specialist
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Fintech projects**
+- 🌱 Learning **React.js & Docker**
+- 💬 Ask me about **Django, FastAPI, Golang**
+- 📫 Reach me: [Email](mailto:you@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- ⚡ Fun fact: I debug better with coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saifarnab&show_icons=true&theme=radical)
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
