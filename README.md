@@ -10,7 +10,7 @@ I specialize in backend development, system architecture, and API integrations, 
 
 Currently:
 - 💼 Leading a software development team at **United Commercial Bank PLC**.
-- 🎓 Serving as **Adjunct Faculty** at *United International University* and *Northern University Bangladesh* — mentoring the next generation of software engineers.
+- 🎓 Serving as **Adjunct Faculty** at **United International University** and **Northern University Bangladesh** — mentoring the next generation of software engineers.
 - 🔭 Working on **Digital Banking**, **Fintech**, and high-availability backend systems.
 - 🌱 Learning **Docker, Kubernetes, and Data Science** to sharpen my DevOps & analytics game.
 
@@ -23,11 +23,6 @@ Currently:
 ## 📊 GitHub Stats
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifarnab&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifarnab&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements & Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=saifarnab&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
