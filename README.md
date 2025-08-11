@@ -2,8 +2,8 @@
 
 🚀 Lead Developer | 🐍 Python & Go Enthusiast | 📊 Fintech Specialist
 
-- 🔭 I’m currently working on **Fintech projects**
-- 🌱 Learning **Docker & Kubenetes**
+- 🔭 I’m currently working on **Digital Banking & Fintech projects**
+- 🌱 Learning **Docker & Kubenetes, Data Science**
 - 💬 Ask me about **Django, FastAPI, Golang**
 - 📫 Reach me: [Email](mailto:saifornab@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saifarnab/)
 - ⚡ Fun fact: I debug better with coffee ☕
