@@ -1,6 +1,6 @@
 # Hi, I'm Saifullah Mahbub Arnab 👋
 
-🚀 **Lead Developer | 🐍 Python & Go Enthusiast | 📊 Fintech Specialist | 🎓 Educator**
+🚀 **Lead Developer | 🐍 Python & Go Enthusiast | 📊 Digital Bank & Fintech Specialist | 🎓 Educator**
 
 ---
 
