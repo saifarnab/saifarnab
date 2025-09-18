@@ -5,8 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Experienced **Lead Software Engineer** with 6+ years of expertise in building scalable, high-performance systems using **Python** and **Go**.  
-I specialize in backend development, system architecture, and API integrations, with a focus on the **Fintech & Digital Banking** domain.
+Experienced **Lead Software Engineer** with 6+ years of expertise in building scalable, high-performance systems using **Python** and **Go**. I specialize in backend development, system architecture, and API integrations, with a focus on the **Fintech & Digital Banking** domain.
 
 Currently:
 - 💼 Leading a software development team at **United Commercial Bank PLC**.
